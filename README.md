@@ -1,5 +1,7 @@
 # dark_theme_implementation
 
+This project is a demonstration on how to implement the dark theme to your project.
+Screenshots available as well.
 
 ## Packages needed:
 3 packages are needed to implement the dark theme:
