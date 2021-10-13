@@ -6,11 +6,11 @@ Screenshots available as well.
 ## Packages needed:
 3 packages are needed to implement the dark theme: 
 -	[List tile switch] (https://pub.dev/packages/list_tile_switch/install)
-  o	Add this line to 	your terminal: ``` **flutter pub add list_tile_switch** ```
+  -	Add this line to 	your terminal: **```flutter pub add list_tile_switch ```**
 -	[Provider] (https://pub.dev/packages/provider/install)
-  o	Add this line to your terminal: ``` **flutter pub add provider** ```
+  -	Add this line to your terminal: **```flutter pub add provider```**
 -	[Sahred Preferences] (https://pub.dev/packages/shared_preferences/install)
-  o	Add this line to your terminal:``` **flutter pub add shared_preferences**```
+  -	Add this line to your terminal: **```flutter pub add shared_preferences```**
 
 Finally run an  the command “flutter pub get” in your terminal and then check your package's in pubspec.yaml file under dependencies
 
