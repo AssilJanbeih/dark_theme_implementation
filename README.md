@@ -1,11 +1,8 @@
 # dark_theme_implementation
 
-A new Flutter project.
-
-## Getting Started
 
 ## Packages needed:
-2 packages are needed to implement the dark theme:
+3 packages are needed to implement the dark theme:
 -	List tile switch (https://pub.dev/packages/list_tile_switch/install)
   o	Add this line to 	your terminal: flutter pub add list_tile_switch
 -	Provider (https://pub.dev/packages/provider/install)
